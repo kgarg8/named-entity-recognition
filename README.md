@@ -3,16 +3,17 @@ The repository is cloned from [this](https://github.com/cs230-stanford/cs230-cod
 
 ## Corpus
 [Annotated Corpus for Named Entity Recognition](https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus/data)
+
 This Groningen Meaning Bank-based corpus is tagged, annotated and built specifically to train the classifier to predict named entities such as geographical entity, person, event, location, etc.
 
 The corpus is included in the repository [here](https://github.com/KrishnaGarg/named-entity-recognition/blob/master/data/ner_dataset.csv).
 
 ## Main Requirements
-numpy
-Pillow
-torch>=1.2
-tabulate
-tqdm
+- numpy
+- Pillow
+- torch>=1.2
+- tabulate
+- tqdm
 
 Please refer to [requirements.txt](https://github.com/KrishnaGarg/named-entity-recognition/blob/master/requirements.txt) for refering to the versions I used.
 
