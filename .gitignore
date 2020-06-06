@@ -1,0 +1,6 @@
+.*
+!.gitignore
+experiments/**/*.log
+experiments/**/*.tar
+model/__py_cache__
+__pycache__
